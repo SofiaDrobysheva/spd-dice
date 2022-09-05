@@ -3,6 +3,7 @@ A dice (or two) that rolls.
 Made with Typer.
 
 To run do:
+:)
 
 Install Poetry - https://python-poetry.org/
 Install the app with Poetry 
